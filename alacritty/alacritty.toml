@@ -1,0 +1,21 @@
+[font.bold]
+family = "Fira Code Nerd Font"
+style = "Bold"
+
+[font.bold_italic]
+family = "Fira Code Nerd Font"
+style = "Bold Italic"
+
+[font.italic]
+family = "Fira Code Nerd Font"
+style = "Italic"
+
+[font.normal]
+family = "Fira Code Nerd Font"
+style = "Regular"
+
+[window]
+opacity = 1.0
+startup_mode = "Windowed"
+decorations = "None"
+padding = { x = 8, y = 8 }
